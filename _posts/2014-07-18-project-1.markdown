@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Resume Parser
 modal-id: 1
 # date: 2014-07-18
 img: Resume_Parser.png
@@ -7,6 +8,6 @@ alt: image-alt
 # project-date: April 2014
 # client: Self
 category: NLP, NER
-applink: www.github.com
+applink: projects/resume_parser
 description: A web application which extracts information from uploaded CV
 ---

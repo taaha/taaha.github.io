@@ -9,5 +9,5 @@ alt: image-alt
 # client: Self
 category: NLP, NER
 applink: projects/resume_parser
-description: A streamlit based web application which extracts information from uploaded CV
+description: A streamlit based web application which extracts information from uploaded Resumes
 ---

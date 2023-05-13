@@ -9,5 +9,5 @@ alt: image-alt
 # client: Self
 category: NLP, ChatGPT
 applink: projects/chatpdf
-description: A Panel base chatbot which uses GPT3 and openAI embeddings to answer questions from uploaded documents 
+description: A Panel based chatbot which uses GPT3 and openAI embeddings to answer questions from uploaded documents 
 ---
